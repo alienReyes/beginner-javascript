@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/wesbos/beginner-javascript#readme",
   "devDependencies": {
+    "@storybook/react": "^5.3.18",
     "babel-eslint": "^9.0.0",
     "cssnano": "^4.1.10",
     "eslint": "^5.16.0",
